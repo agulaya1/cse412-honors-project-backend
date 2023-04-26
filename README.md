@@ -11,3 +11,7 @@ To start the backend server, first run:
 Then use:
 
 ### `npm run dev`
+
+If you're missing node_modules, try using:
+
+### `npm install`
